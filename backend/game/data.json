@@ -1,0 +1,11 @@
+{
+	"stages": [
+		{
+			"step": 0,
+			"question": "See all inhabitants of all villages",
+			"solution": "SELECT * FROM `inhabitants`",
+			"hint": "Use the SELECT statement, and the * wildcard to select all columns",
+			"expected": 60
+		}
+	]
+}
